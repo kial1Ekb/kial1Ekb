@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **k8s, devops**
 
-- 📫 How to reach me **korvatosvki@yande.ru**
+- 📫 How to reach me **korvatosvki@yandex.ru**
 
 
 <h3 align="left">Languages and Tools:</h3>
